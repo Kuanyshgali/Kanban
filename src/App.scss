@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Arimo&family=Bebas+Neue&family=Secular+One&display=swap');
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Secular One', sans-serif;
+}
+
+.App{
+  background: -webkit-linear-gradient(45deg, #6224e4,#b300cc,#e100b2,#ff189a);
+  background: linear-gradient(45deg, #6224e4,#b300cc,#e100b2,#ff189a);
+  padding: 30px;
+  min-height: 1000px;
+}

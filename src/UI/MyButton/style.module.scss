@@ -1,0 +1,13 @@
+.butt {
+  padding: 5px 15px;
+  color: white;
+  background: gray;
+  border: 1px solid black;
+  cursor: pointer;
+  border-radius: 20px;
+  margin-top: 10px;
+}
+
+.butt + .butt {
+  margin-left: 5px;
+}
